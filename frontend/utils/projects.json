@@ -5,6 +5,11 @@
           "livelink": "https://tajneed.khuddam.ng/dashboard"
      },
      {
+          "description": "Fuel pump analysis and record tracking app",
+          "image": "/projects/ashrami.png",
+          "livelink": "http://ashrami110-pump.com"
+     },
+     {
           "description": "Examintaion management System, the purpose of the National Taleem admin portal is to teach and set Examination based on what is taught, for Majlis-Khuddam-ul-Ahmadiyyah Nigeria.",
           "image": "/projects/taleem-admin.png",
           "livelink": "https://taleem-admin.vercel.app/dashboard"
