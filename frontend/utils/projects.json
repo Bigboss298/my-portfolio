@@ -15,23 +15,8 @@
           "livelink": "https://taleem-admin.vercel.app/dashboard"
      },
      {
-          "description": "Discover wellness at your fingertips with us at ohibash, offering trusted remedies and health essentials for a vibrant, healthier you!",
-          "image": "/projects/ohibash.png",
-          "livelink": "https://ohibash.vercel.app/"
-     },
-     {
-          "description": "A modern camping ground, you show up and we pitch the tent!",
-          "image": "/projects/aurora-groove.png",
-          "livelink": "https://aurora-grove-nine.vercel.app/"
-     },
-     {
-          "description": "Savor the essence of pure delight with our artisanal baked goods – where passion meets perfection, making every moment deliciously unforgettable!",
-          "image": "/projects/amat-bakes.png",
-          "livelink": "https://amat-bakes.vercel.app/"
-     },
-     {
-          "description": "Online love hub. Displays events, accepts virtual gifts for joyous celebration.",
-          "image": "/projects/WeddingSite.png",
-          "livelink": "https://toloveforever.netlify.app/"
+          "description": "A multi-tenant farmer-to-customer management system where farmers can register to showcase their products, and customers can sign up to purchase from their preferred farmer. The system includes an automated P2P payment system powered by Paystack, along with integrated live chat and a rating feature",
+          "image": "/projects/fcms.png",
+          "livelink": "https://fcms-web-app.vercel.app/"
      }
 ]
