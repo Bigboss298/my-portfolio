@@ -7,9 +7,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMicrochip, faCheckCircle } from "@fortawesome/free-solid-svg-icons";
 export default function Skills(props) {
   const languages = ["HTML", "CSS", "JavaScript"];
-  const frameworks = ["TailwindCSS", "W3CSS", "Express", "Nextjs"];
+  const frameworks = [];
   const libraries = ["JQuery", "ReactJs"];
-  const others = ["Git + Github", "Node.js"];
+  const others = ["Git + Github"];
   const tech = <FontAwesomeIcon icon={faMicrochip} />;
   const checkMark = (
     <FontAwesomeIcon className="text-green-500" icon={faCheckCircle} />
