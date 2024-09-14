@@ -7,9 +7,7 @@ function Languages() {
     "git",
     "html",
     "js",
-    "ts",
     "react",
-    "next",
     "csharp",
     "sql"
   ];
@@ -21,7 +19,6 @@ function Languages() {
     "js",
     "ts",
     "react",
-    "next",
   ];
   return (
     <div className="bg-[url('/images/blurs/bg.png')] border-2 border-[#000AFF] mx-auto md:w-10/12 bg-cover rounded-3xl p-5 md:p-10 flex flex-wrap gap-4 md:gap-6 justify-center">
