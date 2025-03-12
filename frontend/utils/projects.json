@@ -17,7 +17,7 @@
      {
           "description": "Maal Portal enables MKAN members to make payments and track their financial contributions within the organization.",
           "image": "/projects/maal-portal.png",
-          "livelink": "https://taleem-admin.vercel.app/"
+          "livelink": "https://maalportal.khuddam.ng/"
      },
      {
           "description": "A multi-tenant farmer-to-customer management system where farmers can register to showcase their products, and customers can sign up to purchase from their preferred farmer. The system includes an automated P2P payment system powered by Paystack, along with integrated live chat and a rating feature",
