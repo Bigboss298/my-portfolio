@@ -18,7 +18,7 @@ function Links() {
         <span className="self-center">Socials</span>
       </a>
       <a
-        href="https://docs.google.com/document/d/1ClWXu3l9hlK8-EvPNJ-F0dSZXrRzPTrC/edit?usp=sharing&ouid=117180520676069417310&rtpof=true&sd=true"
+        href="https://docs.google.com/document/d/1Q6NXYfr6bGpHK-Ql8frZjJhCRDBJiiAbPZtWnWrZ--U/edit?usp=sharing"
         target="_blank"
         className="flex gap-2 md:gap-5 justify-center"
       >

@@ -1,7 +1,7 @@
 [
      {
           "description": "CBT Web App is a computer-based testing platform designed for secondary schools, enabling seamless exam administration, automated grading, and real-time performance tracking.",
-          "image": "/projects/ideal-page",
+          "image": "/projects/ideal-page.png",
           "livelink": "http://ideal-cbt-web.vercel.app/"
      },
      {
