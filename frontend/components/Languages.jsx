@@ -7,7 +7,6 @@ function Languages() {
     "git",
     "html",
     "js",
-    "ts",
     "react",
     "next",
     "csharp",

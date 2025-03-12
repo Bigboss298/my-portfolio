@@ -1,22 +1,33 @@
 [
      {
-          "description": "The purpose of the National Tajneed portal is to maintain and update the information management system for Majlis-Khuddam-ul-Ahmadiyyah Nigeria.",
-          "image": "/projects/tajneed.png",
-          "livelink": "https://tajneed.khuddam.ng/dashboard"
-     },  
-     {
-          "description": "Fuel pump analysis and record tracking app",
-          "image": "/projects/ashrami.png",
-          "livelink": "http://ashrami110-pump.com"
+          "description": "CBT Web App is a computer-based testing platform designed for secondary schools, enabling seamless exam administration, automated grading, and real-time performance tracking.",
+          "image": "/projects/ideal-page",
+          "livelink": "http://ideal-cbt-web.vercel.app/"
      },
      {
-          "description": "Examintaion management System, the purpose of the National Taleem admin portal is to teach and set Examination based on what is taught, for Majlis-Khuddam-ul-Ahmadiyyah Nigeria.",
-          "image": "/projects/taleem-admin.png",
-          "livelink": "https://taleem-admin.vercel.app/dashboard"
+          "description": "The purpose of the National Tajneed portal is to maintain and update the information management system for Majlis-Khuddam-ul-Ahmadiyyah Nigeria.",
+          "image": "/projects/tajneed-admin.png",
+          "livelink": "https://tajneed.khuddam.ng/"
+     },  
+     {
+          "description": "Fuel pump analysis and record tracking app, with preorder features",
+          "image": "/projects/ideal-page.png",
+          "livelink": "https://asharami-km110-athkdbebfrbsdpgn.westeurope-01.azurewebsites.net/"
+     },
+     {
+          "description": "Maal Portal enables MKAN members to make payments and track their financial contributions within the organization.",
+          "image": "/projects/maal-portal.png",
+          "livelink": "https://taleem-admin.vercel.app/"
      },
      {
           "description": "A multi-tenant farmer-to-customer management system where farmers can register to showcase their products, and customers can sign up to purchase from their preferred farmer. The system includes an automated P2P payment system powered by Paystack, along with integrated live chat and a rating feature",
           "image": "/projects/fcms.png",
           "livelink": "https://fcms-web-app.vercel.app/"
+     },
+     {
+          "description": "Wine Ashy is a stylish landing page designed to showcase a client's wine brand, highlighting products and contact details.",
+          "image": "/projects/wine-ashy.png",
+          "livelink": "https://wine-ashy.vercel.app/"
      }
+
 ]

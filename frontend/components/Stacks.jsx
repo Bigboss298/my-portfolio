@@ -13,7 +13,7 @@ function Stacks() {
             className="w-fit self-center"
           />
           <h1 className="text-2xl md:text-3xl lg:text-4xl">Frontend</h1>
-          <span className="md:text-lg lg:text-xl">15+ projects</span>
+          <span className="md:text-lg lg:text-xl">10+ projects</span>
         </div>
         <div className="flex flex-col gap-5 justify-center mx-auto text-center border border-purple bg-[url('/images/blurs/backend.png')] bg-cover">
           <img

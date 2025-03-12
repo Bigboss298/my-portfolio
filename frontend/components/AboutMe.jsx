@@ -12,15 +12,7 @@ function AboutMe() {
                     💡🖥️
                </h1>
                <p className="text-sm leading-[26px] md:text-lg md:leading-relaxed lg:text-2xl text-center lg:leading-relaxed font-poppins-extralight">
-                    Full-stack Engineer adept in robust C# and .NET backend
-                    development for scalable, secure web systems. Proficient in
-                    crafting captivating user experiences through javaScript-driven
-                    responsive frontends. Committed to delivering high-quality,
-                    end-to-end applications that exceed user expectations.
-                    Advocate for collaborative innovation, staying updated on tech
-                    trends to deliver exceptional software solutions. Dedicated to
-                    creating impactful software bridging art and science for lasting
-                    business success.
+               Full-Stack Software Engineer with 3+ years of experience building scalable, secure web applications using C#, ASP.NET, and React.js. Adept at robust backend development, API integration, and crafting responsive, JavaScript-driven frontends that enhance user experience. Passionate about delivering high-quality, end-to-end solutions that bridge art and science for lasting business success. Committed to collaborative innovation, staying updated on tech trends, and leveraging technology to solve real-world problems in both remote and on-site environments.
                </p>
           </div>
      );
